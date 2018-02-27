@@ -13,7 +13,7 @@ render(){
   <RcIf if={condition} >
     <h1>I no longer miss ngif</h1>
   </RcIf>
-  <RcIf else={othercondition} >
+  <RcIf if={othercondition} >
     <h1>I no longer miss v-if</h1>
   </RcIf>
 }
