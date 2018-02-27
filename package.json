@@ -1,5 +1,5 @@
 {
-  "name": "re-if",
+  "name": "rc-if",
   "version": "0.0.1",
   "description": "React conditional rendering version of ngIf/ng-if/v-if",
   "main": "build/index.js",
