@@ -1,6 +1,6 @@
 {
   "name": "rc-if",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React conditional rendering version of ngIf/ng-if/v-if",
   "main": "build/index.js",
   "scripts": {
@@ -15,6 +15,11 @@
     "ngIf",
     "v-if"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ivanhuay/rc-if",
+    "web": "https://github.com/ivanhuay/rc-if"
+  },
   "author": "ivanhuay@gmail.com",
   "license": "MIT",
   "dependencies": {},
