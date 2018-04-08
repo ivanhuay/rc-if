@@ -28,3 +28,6 @@ without trying to offend this project is for those who do not like ternary opera
 
 ## v0.0.4
 * RcElse Added: RcElse will render when condition is false.
+## v0.0.9
+* BugFix: Render divs
+* Add react as peer dependencies
