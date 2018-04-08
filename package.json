@@ -1,6 +1,6 @@
 {
   "name": "rc-if",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "React conditional rendering version of ngIf/ng-if/v-if",
   "main": "build/index.js",
   "scripts": {
@@ -40,6 +40,6 @@
   },
   "peerDependencies":{
     "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.0"
   }
 }
