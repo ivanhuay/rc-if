@@ -38,7 +38,7 @@
     "prop-types": "^15.6.1",
     "styled-components": "^3.1.6"
   },
-  "peerDependencies":{
+  "peerDependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   }
